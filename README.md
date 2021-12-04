@@ -16,8 +16,8 @@ You can click the Preview link to take a look at your changes.
 </br>
 <div align="center">
   
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadalfarisy98&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) -->
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadalfarisy1798&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) -->
   
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadalfarisy98&theme=buefy&layout=compact&langs_count=10)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadalfarisy1798&theme=buefy&layout=compact&langs_count=10)
   
 </div>
